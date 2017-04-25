@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/vsltest2/pl/edu/zut/wi/vsl/commons
+END
+Message.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/vsltest2/pl/edu/zut/wi/vsl/commons/Message.class
+END
+StegoPackage.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/vsltest2/pl/edu/zut/wi/vsl/commons/StegoPackage.class
+END
+Benchmark.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/vsltest2/pl/edu/zut/wi/vsl/commons/Benchmark.class
+END
+StegoImage.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/vsltest2/pl/edu/zut/wi/vsl/commons/StegoImage.class
+END
